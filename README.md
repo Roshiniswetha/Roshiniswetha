@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I’m Roshini Swetha
 <h5> I am a FullStack Developer.</h5>
-<h5>🌱 Based in Chennai, India</h5>
+<h5>🌱 Based in Coimbatore, India</h5>
 
 <br>
 
