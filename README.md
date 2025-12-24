@@ -1,7 +1,7 @@
 # RoshiniSwetha.R
 
 ## 👋 Hi, I’m Roshini Swetha
-<h5> I am a Frontend Developer.</h5>
+<h5> I am a Senior Software Engineer</h5>
 <h5>🌱 Based in India</h5>
 
 <br>
